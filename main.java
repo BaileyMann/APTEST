@@ -1,18 +1,25 @@
 public class main {
-    public static void main(String[]args){
+    public static void main(String[]args) {
 
 
-        System.out.print("Find out what ice cream you are");
-        System.out.print("What is your favorite color?");
-        String colorlist[] = {"blue", "green", "red"};
-        System.out.print(colorlist);
-        int color1 = lor.blue;
-        if(colorlist = color1){
+        System.out.println("Find out what ice cream you are");
+        System.out.println("What is your favorite color?");
+        String Arraylist[] = {"blue,", " green,", " red"};
+        displayArray(Arraylist);
+    }
+    public static void displayArray(String Arraylist[]){
+        for(int index = 0; index < array.length;index++);
+        System.out.println(", " + Arraylist[index]);
+      //  int list[0] = "blue";
+        //int color2 = "green";
+       // int color3 = "red";
+      //  if(colorlist.equals(int list[0]){
+       //     System.out.print("");
 
-        } else if(colorlist = green){
+    //    } else if(colorlist.equals(int list[1]){
 
 
-        } else if(colorlist = red){
+      //  } else if(colorlist.equals(){
 
 
         }
@@ -26,7 +33,7 @@ public class main {
 
 
 
-}
+
 
 
 
