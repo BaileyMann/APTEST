@@ -11,26 +11,17 @@ public class main {
 
 
 
-    boolean run = true;
+  /*  boolean Answers = true;
     do {
         System.out.println("What is your favorite number from 1 to 10?");
         int number = input.nextInt();
         switch (number) {
-            case 1:
-            case 2:
-            case 3:
-            case 4:
-            case 5:
-            case 6:
-            case 7:
-            case 8:
-            case 9:
-            case 10:
+            case 1: Options.ChooseAnswer(); break;
             default: System.out.print("The value inputted is not in range. Try another number");
         }
 
 
-    } while (run) ;
+    } while (Answers) ;*/
     }
 }
 
